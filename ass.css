@@ -1,0 +1,78 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(2, 44, 13);
+
+}
+h3{
+    background-color: rgb(48, 47, 47);
+    color: white;
+    height: 5rem;
+    text-align: center;
+    padding-top: 2rem;
+    font-family: 'Orbitron', sans-serif;
+}
+.team{
+    background-color: rgb(2, 44, 13);
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+    align-items: center;
+    margin-top: 6rem;
+}
+/* ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    
+    
+}
+ul li{
+    border: 1px solid rgb(250, 247, 247);
+    margin-top: 2rem;
+     */
+    
+
+.home h4{
+    font-size: 2rem;
+margin-bottom: 3rem;
+/* font-family: 'Orbitron', sans-serif; */
+}
+.guest h4{
+font-size: 2rem;
+margin-bottom: 3rem;
+/* font-family: 'Orbitron', sans-serif; */
+}
+h5{
+    font-size: 3rem;
+    border: 1px solid black;
+    text-align: center;
+    background-color: black;
+    color: red;
+}
+.btn{
+    margin-left: 1rem;
+    margin-top: 1rem;
+
+}
+.btn button{
+    background-color: rgb(2, 44, 13);
+    color: white;
+}
+footer button{
+    background-color: rgb(80, 249, 137);
+    
+    
+}
+footer{
+   text-align: center;
+   
+}
